@@ -23,8 +23,8 @@ GEM
       minitest (>= 5.1)
       mutex_m
       tzinfo (~> 2.0)
-    addressable (2.8.6)
-      public_suffix (>= 2.0.2, < 6.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     ast (2.4.2)
     base64 (0.2.0)
     bigdecimal (3.1.8)
@@ -72,7 +72,7 @@ GEM
       stringio
     psych (5.1.2-java)
       jar-dependencies (>= 0.1.7)
-    public_suffix (5.0.5)
+    public_suffix (6.0.2)
     racc (1.7.3)
     racc (1.7.3-java)
     rack (2.2.9)
@@ -170,7 +170,7 @@ PLATFORMS
   universal-java-1.8
   universal-java-17
   universal-java-18
-  x64-mingw32
+  x64-mingw-ucrt
 
 DEPENDENCIES
   debug (~> 1.7)
