@@ -431,9 +431,9 @@ pysocks==1.7.1 \
     # via
     #   -r py/requirements.txt
     #   urllib3
-pytest==7.4.2 \
-    --hash=sha256:1d881c6124e08ff0a1bb75ba3ec0bfd8b5354a01c194ddd5a0a870a48d99b002 \
-    --hash=sha256:a766259cfab564a2ad52cb1aae1b881a75c3eb7e34ca3779697c23ed47c47069
+pytest==9.0.3 \
+    --hash=sha256:2c5efc453d45394fdd706ade797c0a81091eccd1d6e4bccfcd476e2b8e0ab5d9 \
+    --hash=sha256:b86ada508af81d19edeb213c681b1d48246c1a91d304c6c81a427674c17eb91c
     # via
     #   -r py/requirements.txt
     #   pytest-instafail
