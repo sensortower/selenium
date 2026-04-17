@@ -162,7 +162,7 @@ GEM
       hashdiff (>= 0.4.0, < 2.0.0)
     webrick (1.8.1)
     websocket (1.2.10)
-    yard (0.9.36)
+    yard (0.9.42)
 
 PLATFORMS
   java
@@ -170,7 +170,7 @@ PLATFORMS
   universal-java-1.8
   universal-java-17
   universal-java-18
-  x64-mingw32
+  x64-mingw-ucrt
 
 DEPENDENCIES
   debug (~> 1.7)
